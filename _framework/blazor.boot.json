@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DndCurrencyConverter",
   "resources": {
-    "hash": "sha256-NZJWFwintCIbjLQaS7bm6V2fvD4fhBAk+vE2AzTZ0EA=",
+    "hash": "sha256-k4wpgYYfvXiXoJnV/CUMCvIf+pivdteAK4FOpBk7LfQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.qc44gh0i33.js": "sha256-8su0dfqXmrR6nSS80nF/thphOx+y1Myj7Zbp7+5wV3Y="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "DndCurrencyConverter.wasm": "sha256-zt8P/sBMzHGjoSuSjhQ0Tzoxgo/7k2MZ2w3rUz5WqSo=",
+      "DndCurrencyConverter.wasm": "sha256-G7cv6z0/MHiphoa8wEb8d+kk1YzKV5ZCQ3n2ZJdu9XQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-yOcA+egzynJMKUqFRv+BZvhv9cZeieUpMHU6ipWLjpw=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-RNAqR0ff+baVaIhI+uEcLo9eT+pxGnBEvkCzqD+3roM=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Ws5szf6fWPAXna+XyWsAhavx+WDFcA/91DQ7iPRPCMs=",
